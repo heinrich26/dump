@@ -2,7 +2,7 @@ import os
 import sys
 
 def create_item_child(input_file):
-	if input_file[1][-5:] != ".json":
+	if input_file[-5:] != ".json":
 		input("Invalid Filetype, press ENTER to continue!")
 		exit()		
 	filepath = ""
