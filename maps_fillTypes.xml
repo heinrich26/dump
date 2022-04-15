@@ -62,7 +62,7 @@
                     <factor period="12" value="1.08" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_wheat.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_wheat.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/wheat_diffuse.png"
                         normal  ="$data/fillPlanes/wheat_normal.png"
@@ -87,7 +87,7 @@
                     <factor period="12" value="1.08" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_barley.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_barley.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/barley_diffuse.png"
                         normal  ="$data/fillPlanes/barley_normal.png"
@@ -112,7 +112,7 @@
                     <factor period="12" value="1.08" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_oat.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_oat.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/oat_diffuse.png"
                         normal  ="$data/fillPlanes/oat_normal.png"
@@ -138,7 +138,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.3006 0.1651 0.0630 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_canola.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_canola.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/canola_diffuse.png"
                         normal  ="$data/fillPlanes/canola_normal.png"
@@ -164,7 +164,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.3006 0.1651 0.0630 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_sorghum.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_sorghum.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/sorghum_diffuse.png"
                         normal  ="$data/fillPlanes/sorghum_normal.png"
@@ -190,7 +190,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.3006 0.1651 0.0630 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_grape.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_grape.png" />
             <pallet     filename="$data/objects/pallets/grapePallet/grapePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/grape_diffuse.png"
                         normal  ="$data/fillPlanes/grape_normal.png"
@@ -216,7 +216,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.3006 0.1651 0.0630 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_olive.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_olive.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/olive_diffuse.png"
                         normal  ="$data/fillPlanes/olive_normal.png"
@@ -242,7 +242,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.0753 0.0542 0.0289 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_sunflower.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_sunflower.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/sunflower_diffuse.png"
                         normal  ="$data/fillPlanes/sunflower_normal.png"
@@ -267,7 +267,7 @@
                     <factor period="12" value="0.64" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_soybean.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_soyBean.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/soybean_diffuse.png"
                         normal  ="$data/fillPlanes/soybean_normal.png"
@@ -293,7 +293,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.3324 0.2022 0.0873 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_maize.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_maize.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/maize_diffuse.png"
                         normal  ="$data/fillPlanes/maize_normal.png"
@@ -319,7 +319,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_potato.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_potato.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/potatoes_diffuse.png"
                         normal  ="$data/fillPlanes/potatoes_normal.png"
@@ -345,7 +345,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_sugarbeet.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_sugarBeet.png" />
             <textures   diffuse ="$data/fillPlanes/sugarBeets_diffuse.png"
                         normal  ="$data/fillPlanes/sugarBeets_normal.png"
                         specular="$data/fillPlanes/sugarBeets_specular.png"
@@ -370,7 +370,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_sugarBeetCut.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_sugarBeetCut.png" />
             <textures   diffuse ="$data/fillPlanes/sugarBeetsCut_diffuse.png"
                         normal  ="$data/fillPlanes/sugarBeetsCut_normal.png"
                         specular="$data/fillPlanes/sugarBeetsCut_specular.png"
@@ -395,7 +395,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_cotton.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_cotton.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/cotton_diffuse.png"
                         normal  ="$data/fillPlanes/cotton_normal.png"
@@ -420,7 +420,7 @@
                     <factor period="12" value="0.94" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_sugarcane.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_sugarCane.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
             <textures   diffuse ="$data/fillPlanes/sugarCane_diffuse.png"
                         normal  ="$data/fillPlanes/sugarCane_normal.png"
@@ -456,7 +456,7 @@
                     <factor period="12" value="0.91" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_egg.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_egg.png" />
             <pallet     filename="$data/objects/pallets/eggBoxPallet/eggBoxPallet.xml" />
         </fillType>
 
@@ -478,7 +478,7 @@
                     <factor period="12" value="0.97" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_wool.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_wool.png" />
             <pallet     filename="$data/objects/pallets/woolPallet/woolPallet.xml" />
         </fillType>
 
@@ -500,7 +500,7 @@
                     <factor period="12" value="1.07" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_milk.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_milk.png" />
         </fillType>
 
         <fillType name="WATER" title="$l10n_fillType_water" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
@@ -521,14 +521,14 @@
                     <factor period="12" value="0.97" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_water.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_water.png" />
         </fillType>
 
         <fillType name="FORAGE" title="$l10n_fillType_forage" showOnPriceTable="true" fillPlaneColors="1.0 0.35 0.8" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.30" maxPhysicalSurfaceAngle="40" />
             <economy pricePerLiter="0.3" />
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_forage.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_forage.png" />
             <textures   diffuse ="$data/fillPlanes/forage_diffuse.png"
                         normal  ="$data/fillPlanes/forage_normal.png"
                         specular="$data/fillPlanes/forage_specular.png"
@@ -560,7 +560,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_chaff.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_chaff.png" />
             <textures   diffuse ="$data/fillPlanes/chaff_diffuse.png"
                         normal  ="$data/fillPlanes/chaff_normal.png"
                         specular="$data/fillPlanes/chaff_specular.png"
@@ -592,7 +592,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_woodchips.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_woodChips.png" />
             <textures   diffuse ="$data/fillPlanes/woodChips_diffuse.png"
                         normal  ="$data/fillPlanes/woodChips_normal.png"
                         specular="$data/fillPlanes/woodChips_specular.png"
@@ -618,7 +618,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_silage.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_silage.png" />
             <textures   diffuse ="$data/fillPlanes/silage_diffuse.png"
                         normal  ="$data/fillPlanes/silage_normal.png"
                         specular="$data/fillPlanes/silage_specular.png"
@@ -628,14 +628,14 @@
         <fillType name="OILSEEDRADISH" title="$l10n_fillType_oilRadish" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.41" maxPhysicalSurfaceAngle="22.5" />
             <economy pricePerLiter="0.250" />
-            <image      hud     ="maps/huds/hud_fill_oilseed.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_oilRadish.png" />
             <pallet     filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" />
         </fillType>
 
         <fillType name="POPLAR" title="$l10n_fillType_poplar" showOnPriceTable="false">
             <physics massPerLiter="0.40" maxPhysicalSurfaceAngle="50" />
             <economy pricePerLiter="0.040" />
-            <image      hud     ="maps/huds/hud_fill_poplar.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_poplar.png" />
             <textures   diffuse ="$data/fillPlanes/poplar_diffuse.png"
                         normal  ="$data/fillPlanes/poplar_normal.png"
                         specular="$data/fillPlanes/poplar_specular.png" />
@@ -667,14 +667,14 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.0970 0.1130 0.0171 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_grass.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_grass.png" />
         </fillType>
 
         <fillType name="MEADOW" title="$l10n_fillType_grass" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.30" maxPhysicalSurfaceAngle="50" />
             <economy pricePerLiter="0" />
             <effects fruitSmokeColor="0.0970 0.1130 0.0171 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_grass.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_grass.png" />
         </fillType>
 
         <fillType name="GRASS_WINDROW" title="$l10n_fillType_grass" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
@@ -696,7 +696,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_grass.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_grass_windrow.png" />
             <textures   diffuse ="$data/fillPlanes/grass_diffuse.png"
                         normal  ="$data/fillPlanes/grass_normal.png"
                         specular="$data/fillPlanes/grass_specular.png"
@@ -722,7 +722,7 @@
                 </factors>
             </economy>
             <effects fruitSmokeColor="0.0970 0.1130 0.0171 1.0000"/>
-            <image      hud     ="maps/huds/hud_fill_drygrass_windrow.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_dryGrass_windrow.png" />
         </fillType>
 
         <fillType name="DRYGRASS_WINDROW" title="$l10n_fillType_dryGrass" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
@@ -744,7 +744,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_drygrass_windrow.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_dryGrass_windrow.png" />
             <textures   diffuse ="$data/fillPlanes/hay_diffuse.png"
                         normal  ="$data/fillPlanes/hay_normal.png"
                         specular="$data/fillPlanes/hay_specular.png"
@@ -770,7 +770,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect"/>
-            <image      hud     ="maps/huds/hud_fill_straw.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_straw.png" />
             <textures   diffuse ="$data/fillPlanes/straw_diffuse.png"
                         normal  ="$data/fillPlanes/straw_normal.png"
                         specular="$data/fillPlanes/straw_specular.png"
@@ -1215,7 +1215,7 @@
         <fillType name="DIESEL" title="$l10n_fillType_diesel" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.90" maxPhysicalSurfaceAngle="0" />
             <economy pricePerLiter="1.1" />
-            <image      hud     ="maps/huds/hud_fill_fuel.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_diesel.png" />
         </fillType>
 
         <fillType name="DEF" title="$l10n_fillType_def" showOnPriceTable="false" unitShort="$l10n_unit_literShort">
@@ -1233,7 +1233,7 @@
         <fillType name="ELECTRICCHARGE" title="$l10n_fillType_electricCharge" showOnPriceTable="true" unitShort="$l10n_unit_kw">
             <physics massPerLiter="0.00" maxPhysicalSurfaceAngle="0" />
             <economy pricePerLiter="0.35" />
-            <image      hud     ="maps/huds/hud_fill_electricCharge.png" />
+            <<image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_electricCharge.png" />
         </fillType>
 
         <fillType name="METHANE" title="$l10n_fillType_methane" showOnPriceTable="true" unitShort="$l10n_unit_kg">
@@ -1255,7 +1255,7 @@
         <fillType name="ROADSALT" title="$l10n_fillType_roadSalt" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="1.2" maxPhysicalSurfaceAngle="32" />
             <economy pricePerLiter="0.0" />
-            <image      hud     ="maps/huds/hud_fill_roadSalt.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_roadSalt.png" />
             <textures   diffuse ="$data/fillPlanes/roadSalt_diffuse.png"
                         normal  ="$data/fillPlanes/roadSalt_normal.png"
                         specular="$data/fillPlanes/roadSalt_specular.png"
@@ -1282,7 +1282,7 @@
                     <factor period="12" value="1.08" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_flour.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_flour.png" />
             <pallet     filename="$data/objects/pallets/flourPallet/flourBoxPallet.xml" />
         </fillType>
 
@@ -1304,7 +1304,7 @@
                     <factor period="12" value="1.08" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_bread.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_bread.png" />
             <pallet     filename="$data/objects/pallets/bakeryBoxPallet/bakeryBoxPallet.xml" />
         </fillType>
 
@@ -1326,7 +1326,7 @@
                     <factor period="12" value="1.07" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_cake.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_cake.png" />
             <pallet     filename="$data/objects/pallets/cakePallet/cakePallet.xml" />
         </fillType>
 
@@ -1348,7 +1348,7 @@
                     <factor period="12" value="1.07" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_butter.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_butter.png" />
             <pallet     filename="$data/objects/pallets/butterBoxPallet/butterBoxPallet.xml" />
         </fillType>
         <fillType name="CHEESE" title="$l10n_fillType_cheese" showOnPriceTable="true">
@@ -1369,7 +1369,7 @@
                     <factor period="12" value="1.07" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_cheese.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_cheese.png" />
             <pallet     filename="$data/objects/pallets/cheesePallet/cheesePallet.xml" />
         </fillType>
 
@@ -1391,7 +1391,7 @@
                     <factor period="12" value="0.97" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_fabric.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_fabric.png" />
             <pallet     filename="$data/objects/pallets/fabricsPallet/fabricsPallet.xml" />
         </fillType>
 
@@ -1413,7 +1413,7 @@
                     <factor period="12" value="0.97" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_clothes.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_clothes.png" />
             <pallet     filename="$data/objects/pallets/clothesBoxPallet/clothesBoxPallet.xml" />
         </fillType>
 
@@ -1435,7 +1435,7 @@
                     <factor period="12" value="0.94" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_sugar.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_sugar.png" />
             <pallet     filename="$data/objects/pallets/sugarPallet/sugarBoxPallet.xml" />
         </fillType>
 
@@ -1457,7 +1457,7 @@
                     <factor period="12" value="1.07" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_honey.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_honey.png" />
             <pallet     filename="$data/objects/pallets/honeyBoxPallet/honeyBoxPallet.xml" />
         </fillType>
 
@@ -1479,7 +1479,7 @@
                     <factor period="12" value="1.07" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_cereals.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_cereals.png" />
             <pallet     filename="$data/objects/pallets/cerealsPallet/cerealsPallet.xml" />
         </fillType>
 
@@ -1501,7 +1501,7 @@
                     <factor period="12" value="1.12" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_oil_sunflower.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_oil_sunflower.png" />
             <pallet     filename="$data/objects/pallets/sunflowerOilPallet/sunflowerOilPallet.xml" />
         </fillType>
 
@@ -1523,7 +1523,7 @@
                     <factor period="12" value="1.00" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_oil_canola.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_oil_canola.png" />
             <pallet     filename="$data/objects/pallets/canolaOilPallet/canolaOilPallet.xml" />
         </fillType>
 
@@ -1545,7 +1545,7 @@
                     <factor period="12" value="0.95" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_oil_olive.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_oil_olive.png" />
             <pallet     filename="$data/objects/pallets/oliveOilPallet/oliveOilPallet.xml" />
         </fillType>
 
@@ -1567,7 +1567,7 @@
                     <factor period="12" value="0.99" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_raisins.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_raisins.png" />
             <pallet     filename="$data/objects/pallets/raisinBoxPallet/raisinBoxPallet.xml" />
         </fillType>
 
@@ -1589,7 +1589,7 @@
                     <factor period="12" value="1.12" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_grapeJuice.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_grapeJuice.png" />
             <pallet     filename="$data/objects/pallets/grapeJuicePallet/grapeJuicePallet.xml" />
         </fillType>
 
@@ -1611,7 +1611,7 @@
                     <factor period="12" value="1.13" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_lettuce.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_lettuce.png" />
             <pallet     filename="$data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.xml" />
         </fillType>
 
@@ -1633,7 +1633,7 @@
                     <factor period="12" value="1.13" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_tomato.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_tomato.png" />
             <pallet     filename="$data/objects/pallets/tomatoesBoxPallet/tomatoesBoxPallet.xml" />
         </fillType>
 
@@ -1655,7 +1655,7 @@
                     <factor period="12" value="1.13" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_strawberry.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_strawberry.png" />
             <pallet     filename="$data/objects/pallets/strawberriesBoxPallet/strawberriesBoxPallet.xml" />
         </fillType>
 
@@ -1677,7 +1677,7 @@
                     <factor period="12" value="1.08" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_chocolate.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_chocolate.png" />
             <pallet     filename="$data/objects/pallets/chocolateBoxPallet/chocolateBoxPallet.xml" />
         </fillType>
 
@@ -1699,7 +1699,7 @@
                     <factor period="12" value="0.92" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_boards.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_boards.png" />
             <pallet     filename="maps/Paletten/boardsStackPallet.xml" />
         </fillType>
 
@@ -1721,7 +1721,7 @@
                     <factor period="12" value="0.90" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_furniture.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_furniture.png" />
             <pallet     filename="$data/objects/pallets/furnitureStackPallet/furnitureStackPallet.xml" />
         </fillType>
 
@@ -1872,7 +1872,7 @@
         <fillType name="FERTILIZER" title="$l10n_fillType_fertilizer" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.8" maxPhysicalSurfaceAngle="15" />
             <economy pricePerLiter="0.80" />
-            <image      hud     ="maps/huds/hud_fill_fertilizer.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_fertilizer.png" />
             <pallet     filename="$data/objects/bigBagPallet/fertilizer/bigBagPallet_fertilizer.xml" />
             <textures   diffuse ="$data/fillPlanes/fertilizer_diffuse.png"
                         normal  ="$data/fillPlanes/fertilizer_normal.png"
@@ -1883,7 +1883,7 @@
         <fillType name="LIQUIDFERTILIZER" title="$l10n_fillType_liquidFertilizer" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="1.00" maxPhysicalSurfaceAngle="0" />
             <economy pricePerLiter="1.20" />
-            <image      hud     ="maps/huds/hud_fill_liquidfertilizer.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_liquidFertilizer.png" />
             <pallet     filename="$data/objects/pallets/liquidTank/fertilizerTank.xml" />
         </fillType>
 
@@ -1906,7 +1906,7 @@
                 </factors>
             </economy>
             <effects prioritizedEffectType="ParticleEffect" fillSmokeColor="0.8 0.8 0.8 1"/>
-            <image      hud     ="maps/huds/hud_fill_manure.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_manure.png" />
             <textures   diffuse ="$data/fillPlanes/manure_diffuse.png"
                         normal  ="$data/fillPlanes/manure_normal.png"
                         specular="$data/fillPlanes/manure_specular.png"
@@ -1931,7 +1931,7 @@
                     <factor period="12" value="1.11" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_liquidmanure.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_liquidManure.png" />
             <textures   diffuse ="$data/fillPlanes/liquidManure_diffuse.png"
                         normal  ="$data/fillPlanes/liquidManure_normal.png"
                         specular="$data/fillPlanes/liquidManure_specular.png"/>
@@ -1955,7 +1955,7 @@
                     <factor period="12" value="1.11" />
                 </factors>
             </economy>
-            <image      hud     ="maps/huds/hud_fill_digestate.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_digestate.png" />
             <textures   diffuse ="$data/fillPlanes/liquidManure_diffuse.png"
                         normal  ="$data/fillPlanes/liquidManure_normal.png"
                         specular="$data/fillPlanes/liquidManure_specular.png"/>
@@ -1964,7 +1964,7 @@
         <fillType name="PIGFOOD" title="$l10n_fillType_pigFood" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="0.65" maxPhysicalSurfaceAngle="23" />
             <economy pricePerLiter="0.6" />
-            <image      hud     ="maps/huds/hud_fill_pigfood.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_pigFood.png" />
             <textures   diffuse ="$data/fillPlanes/pigFood_diffuse.png"
                         normal  ="$data/fillPlanes/pigFood_normal.png"
                         specular="$data/fillPlanes/pigFood_specular.png"
@@ -1984,7 +1984,7 @@
         <fillType name="LIME" title="$l10n_fillType_lime" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="1.2" maxPhysicalSurfaceAngle="15" />
             <economy pricePerLiter="0.225" />
-            <image      hud     ="maps/huds/hud_fill_lime.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_lime.png" />
             <pallet     filename="$data/objects/bigBagPallet/lime/bigBagPallet_lime.xml" />
             <textures   diffuse ="$data/fillPlanes/lime_diffuse.png"
                         normal  ="$data/fillPlanes/lime_normal.png"
@@ -1995,7 +1995,7 @@
         <fillType name="HERBICIDE" title="$l10n_fillType_herbicide" showOnPriceTable="true" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="1.0" maxPhysicalSurfaceAngle="0" />
             <economy pricePerLiter="1.2" />
-            <image      hud     ="maps/huds/hud_fill_herbicide.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_herbicide.png" />
             <pallet     filename="$data/objects/pallets/liquidTank/herbicideTank.xml" />
         </fillType>
 
@@ -2025,7 +2025,7 @@
         <fillType name="STONE" title="$l10n_fillType_stone" showOnPriceTable="true" achievementName="DeliveryStones" unitShort="$l10n_unit_literShort">
             <physics massPerLiter="1.6" maxPhysicalSurfaceAngle="35" />
             <economy pricePerLiter="0.05" />
-            <image      hud     ="maps/huds/hud_fill_stone.png" />
+            <image      hud     ="$dataS/menu/hud/fillTypes/hud_fill_stone.png" />
             <textures   diffuse ="$data/fillPlanes/stone_diffuse.png"
                         normal  ="$data/fillPlanes/stone_normal.png"
                         specular="$data/fillPlanes/stone_specular.png"
